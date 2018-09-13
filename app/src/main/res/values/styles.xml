@@ -1,0 +1,114 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="cardactivity">
+        <item name="android:layout_width">320dp</item>
+        <item name="android:layout_height">34dp</item>
+        <item name="android:text">Card Activity</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="steph">
+
+        <item name="android:layout_width">97dp</item>
+        <item name="android:layout_height">72dp</item>
+    </style>
+    <style name="stephencurry">
+
+        <item name="android:layout_width">227dp</item>
+        <item name="android:layout_height">28dp</item>
+        <item name="android:text">Stephen Curry</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="nbaplayer">
+        <item name="android:layout_width">227dp</item>
+        <item name="android:layout_height">23dp</item>
+        <item name="android:text">NBA Player</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="descriptionsteph">
+        <item name="android:layout_width">354dp</item>
+        <item name="android:layout_height">108dp</item>
+        <item name="android:layout_marginTop">108dp</item>
+        <item name="android:text">Wardell Stephen Curry II is an American professional basketball player for the Golden State Warriors of the National Basketball Association. Many players and analysts have called him the greatest shooter in NBA history.</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="lebronjames">
+        <item name="android:layout_width">227dp</item>
+        <item name="android:layout_height">28dp</item>
+        <item name="android:text">Lebron James</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="nbaplayer2">
+        <item name="android:layout_width">227dp</item>
+        <item name="android:layout_height">28dp</item>
+        <item name="android:text">NBA Player</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="textview7">
+        <item name="android:layout_width">371dp</item>
+        <item name="android:layout_height">169dp</item>
+    </style>
+    <style name="descriptionlebron">
+        <item name="android:layout_width">339dp</item>
+        <item name="android:layout_height">61dp</item>
+        <item name="android:layout_marginTop">280dp</item>
+        <item name="android:text">LeBron Raymone James Sr. is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association.</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="textview9">
+        <item name="android:layout_width">367dp</item>
+        <item name="android:layout_height">138dp</item>
+    </style>
+    <style name="lebron">
+        <item name="android:layout_width">97dp</item>
+        <item name="android:layout_height">72dp</item>
+    </style>
+    <style name="textview10">
+
+        <item name="android:layout_width">365dp</item>
+        <item name="android:layout_height">199dp</item>
+    </style>
+    <style name="michaeljordan">
+
+        <item name="android:layout_width">227dp</item>
+        <item name="android:layout_height">28dp</item>
+        <item name="android:text">Michael Jordan</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="formernbaplayer">
+        <item name="android:layout_width">227dp</item>
+        <item name="android:layout_height">28dp</item>
+        <item name="android:text">Former NBA Player</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="jordan">
+        <item name="android:layout_width">97dp</item>
+        <item name="android:layout_height">72dp</item>
+    </style>
+    <style name="descriptionjordan">
+        <item name="android:layout_width">341dp</item>
+        <item name="android:layout_height">75dp</item>
+        <item name="android:text">Michael Jeffrey Jordan, also known by his initials, MJ, is an American former professional basketball player. He played 15 seasons in the National Basketball Association for the Chicago Bulls and Washington Wizards.</item>
+        <item name=" android:textColor">@android:color/black</item>
+    </style>
+</resources>
